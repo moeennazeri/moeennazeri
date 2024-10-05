@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moeennazeri
+- 👋 Hi, I’m MoeenNazeri
 - 🌱 I’m currently learning Angular
 - ⚡ My portfolio:https://moeennazeri.my.canva.site/
 
